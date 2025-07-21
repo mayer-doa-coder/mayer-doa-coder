@@ -1,5 +1,45 @@
-# 💫 About Me:
-👋 Hi there!<br><br>I am currently a third-year Computer Science and Engineering student at Khulna University of Engineering and Technology (KUET), Khulna. My passion lies in technology and 🧠 logical problem-solving, which has driven me to continuously learn new programming languages and technical skills.<br><br>💡 Skills & Interests:<br><br>Programming Languages: C, C++, Java, Python 🖥️<br><br>Competitive Programming: Active participant with a Codeforces rating of 1289 🏅<br><br>Project Work: Currently developing a "Physics Projectile Motion Simulator" 🎯<br><br>Quick Learner: Always eager to learn and adapt to new technologies 🚀<br><br>🔧 What I’m Working On:<br><br>Physics Projectile Motion Simulator:<br>This project aims to help students and enthusiasts visualize and understand the physics of projectile motion through interactive simulations. 🏀📈<br><br>🙋‍♂️ More About Me:<br><br>I enjoy tackling challenging coding problems and collaborating on software projects 🤝💻.<br><br>Open to internships, entry-level positions, and opportunities to contribute to open source 🌐.<br><br>Committed to growing as a developer and contributing positively to any tech team 🌱👨‍💻.<br><br>Feel free to connect with me or check out my repositories! 🌟
+# 👋 Hi there! Welcome to My GitHub
+
+I'm currently a **third-year Computer Science and Engineering student** at Khulna University of Engineering and Technology (KUET), Khulna. My journey is driven by a passion for technology and 🧠 *logical problem-solving,* and I’m always eager to expand my skills and explore new horizons in programming.
+
+---
+
+## 💡 Skills & Interests
+
+- **Programming Languages:** C, C++, Java, Python 🖥️  
+- **Competitive Programming:** Active participant on Codeforces (Rating: 1289) 🏅  
+- **Project Work:** Currently developing a *Physics Projectile Motion Simulator* 🎯  
+- **Quick Learner:** Always ready to adapt and master new technologies 🚀
+
+---
+
+## 🔧 What I’m Working On
+
+### Physics Projectile Motion Simulator
+> An interactive simulator to help students and enthusiasts visualize and understand the physics of projectile motion.  
+> Engage with real-world scenarios and deepen your understanding of motion dynamics! 🏀📈  
+
+---
+
+## 🙋‍♂️ More About Me
+
+- Love tackling challenging coding problems and collaborating on impactful software projects 🤝💻
+- Open to internships, entry-level positions, and opportunities to contribute to open source 🌐
+- Committed to continuous growth as a developer and making a positive impact on any tech team 🌱👨‍💻
+
+---
+
+### 🌟 Let’s Connect!
+
+Feel free to connect with me or dive into my repositories—let’s build and learn together!
+
+---
+
+
+![Naruto](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFodW5ocml2ZnZuYXVnbHR4b2FkMGgyb3FxNXVscWNsOHcyZTJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDYQkBC3C1aog/giphy.gif)
+
+
+
 
 
 ## 🌐 Socials:
