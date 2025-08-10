@@ -15,7 +15,7 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## 🔧 What I’m Working On
 
-### Physics Projectile Motion Simulator
+### ParaBounce->Physics Projectile Motion Simulator
 > An interactive simulator to help students and enthusiasts visualize and understand the physics of projectile motion.  
 > Engage with real-world scenarios and deepen your understanding of motion dynamics! 🏀📈  
 
