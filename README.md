@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to My GitHub
+# 👋 Hi, I am Tawhidul Hasan.
 
 I'm currently a **third-year Computer Science and Engineering student** at Khulna University of Engineering and Technology (KUET), Khulna. My journey is driven by a passion for technology and 🧠 *logical problem-solving,* and I’m always eager to expand my skills and explore new horizons in programming.
 
