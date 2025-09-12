@@ -15,9 +15,10 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## 🔧 What I’m Working On
 
-### ParaBounce->Physics Projectile Motion Simulator
-> An interactive simulator to help students and enthusiasts visualize and understand the physics of projectile motion.  
-> Engage with real-world scenarios and deepen your understanding of motion dynamics! 🏀📈  
+### Laravel Project Movie Site
+> A dynamic and interactive movie website built with Laravel.  
+> Users can explore, search, and interact with movie data while I practice modern web development skills using Laravel and related tools. 🎥🌐  
+
 
 ---
 
