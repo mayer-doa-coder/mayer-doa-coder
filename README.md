@@ -15,9 +15,9 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## What I’m Working On
 
-### Laravel Project Movie Site
-> A dynamic and interactive movie website built with Laravel.  
-> Users can explore, search, and interact with movie data while I practice modern web development skills using Laravel and related tools.
+### Flutter App Development 
+> A mobile-based support system for small neighborhood general stores in Bangladesh, where business operations are largely informal and paper-based.
+> The system digitizes daily store activities such as baki (credit) management, sales recording, inventory tracking, price change history, and receipt generation in a single, lightweight mobile application.
 
 
 ---
