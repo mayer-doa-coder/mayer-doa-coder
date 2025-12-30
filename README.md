@@ -7,8 +7,8 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 ## Skills & Interests
 
 - **Programming Languages:** C, C++, Java, Python, PHP  
-- **Competitive Programming:** Active participant on Codeforces (Rating: 1190)
-- **Project Work:** Currently working on a movie database site called **Cinema Paradiso**  
+- **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429)
+- **Project Work:** Currently working on a system project for small general stores (stay tuned)
 - **Quick Learner:** Always ready to adapt and master new technologies
 
 ---
@@ -58,5 +58,11 @@ Feel free to connect with me or dive into my repositories—let’s build and le
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mayer-doa-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
