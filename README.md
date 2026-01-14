@@ -6,8 +6,9 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## Skills & Interests
 
-- **Programming Languages:** C, C++, Java, Python, PHP, Swift  
-- **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429), Leetcode, Codechef
+- **Programming Languages:** C, C++, Java, Python, PHP, Swift, C#
+- **Framework:** Laravel, Astro, React, SpringBoot, Nextjs, Nodejs  
+- **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429), Leetcode, Codechef and Atcoder
 - **Project Work:** Currently working on a system project for small general stores (stay tuned)
 - **Quick Learner:** Always ready to adapt and master new technologies
 
