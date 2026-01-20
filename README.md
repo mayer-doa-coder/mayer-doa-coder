@@ -16,7 +16,7 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## What I’m Working On
 
-### Flutter App Development 
+### React-Native App Development 
 > A mobile-based support system for small neighborhood general stores in Bangladesh, where business operations are largely informal and paper-based.
 > The system digitizes daily store activities such as baki (credit) management, sales recording, inventory tracking, price change history, and receipt generation in a single, lightweight mobile application.
 
