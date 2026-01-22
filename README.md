@@ -20,6 +20,11 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 > A mobile-based support system for small neighborhood general stores in Bangladesh, where business operations are largely informal and paper-based.
 > The system digitizes daily store activities such as baki (credit) management, sales recording, inventory tracking, price change history, and receipt generation in a single, lightweight mobile application.
 
+### iOS App Development
+> Meowtropolis – An all-in-one mobile application designed to make pet ownership simple and stress-free.
+> The app allows users to buy and adopt pets, discover and book pet grooming and training services, connect with veterinary doctors, and manage pet health needs in one place.
+> It also provides detailed information about doctors, clinics, and service providers, helping pet owners make informed decisions.
+
 
 ---
 
