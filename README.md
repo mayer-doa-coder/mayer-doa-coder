@@ -6,10 +6,10 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## Skills & Interests
 
-- **Programming Languages:** C, C++, Java, Python, PHP, Swift, C#
-- **Framework:** Laravel, Astro, React, SpringBoot, Nextjs, Nodejs  
+- **Programming Languages:** C, C++, Java, Python, PHP, Swift, C#, Dart
+- **Framework:** Laravel, Astro, React, SpringBoot, Nextjs, Nodejs
 - **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429), Leetcode, Codechef and Atcoder
-- **Project Work:** Currently working on a system project for small general stores (stay tuned)
+- **Project Work:** Hisab (general store based system), Murder in KUET (AI vs AI board game), WizardLang, Wild Beyond (wild life blog and buy-sell website) and Meowtropolis (pet grooming app)
 - **Quick Learner:** Always ready to adapt and master new technologies
 
 ---
