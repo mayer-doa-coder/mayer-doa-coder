@@ -7,7 +7,7 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 ## Skills & Interests
 
 - **Programming Languages:** C, C++, Java, Python, PHP, Swift, C#, Dart
-- **Framework:** Laravel, Astro, React, SpringBoot, Nextjs, Nodejs
+- **Framework:** Laravel, Astro, React, SpringBoot, Next, Node, React-Native, React
 - **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429), Leetcode, Codechef and Atcoder
 - **Project Work:** Hisab (general store based system), Murder in KUET (AI vs AI board game), WizardLang, Wild Beyond (wild life blog and buy-sell website) and Meowtropolis (pet grooming app)
 - **Quick Learner:** Always ready to adapt and master new technologies
@@ -16,14 +16,13 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## What I’m Working On
 
-### React-Native App Development 
-> A mobile-based support system for small neighborhood general stores in Bangladesh, where business operations are largely informal and paper-based.
-> The system digitizes daily store activities such as baki (credit) management, sales recording, inventory tracking, price change history, and receipt generation in a single, lightweight mobile application.
-
-### iOS App Development
-> Meowtropolis – An all-in-one mobile application designed to make pet ownership simple and stress-free.
-> The app allows users to buy and adopt pets, discover and book pet grooming and training services, connect with veterinary doctors, and manage pet health needs in one place.
-> It also provides detailed information about doctors, clinics, and service providers, helping pet owners make informed decisions.
+### AI vs AI and Human vs Human Game Development 
+> A board-based intelligent game system called **Murder in KUET**, designed to simulate decision-making under uncertainty using multiple AI algorithms.
+> The system integrates advanced AI techniques such as Minimax, Expectiminimax, Negamax, Monte Carlo, MCTS, and Bayesian inference to model strategic reasoning and probabilistic learning. It features a visually interactive board interface where players move based on dice rolls and pathfinding (A*), while the AI dynamically evaluates moves, makes suggestions, and updates beliefs in real-time. The platform also includes explainable AI components, allowing users to visualize decision trees, probability updates, and reasoning processes, transforming the project into both a gameplay system and an educational AI demonstration tool.
+### Mobile Application Development
+> Hisab - A smart, voice-enabled retail management application designed for small neighborhood shops in Bangladesh.
+> The app digitizes daily shop operations such as baki (credit) management, sales tracking, inventory monitoring, and customer handling in a single, easy-to-use mobile platform.
+> It supports Bengali voice commands, allowing shopkeepers to record transactions hands-free, making it ideal for fast-paced environments. Hisab also introduces a secure customer identity system (phone + PIN) to prevent fraud in credit transactions and enables a shared trust score across shops. With offline-first functionality and automatic sync, the app works seamlessly even in low-connectivity areas, helping shop owners make better decisions through data insights and AI-driven demand prediction.
 
 
 ---
