@@ -42,7 +42,7 @@ Feel free to connect with me or dive into my repositories—let’s build and le
 ---
 
 
-![Naruto](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFodW5ocml2ZnZuYXVnbHR4b2FkMGgyb3FxNXVscWNsOHcyZTJ5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDYQkBC3C1aog/giphy.gif)
+![One Punch Man](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB2bTJmdHRubnBxZzA0eXp2NDh5MWZ1ajJxa3hwaHY5bzYwcWp0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif)
 
 
 
