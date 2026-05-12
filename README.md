@@ -9,7 +9,7 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 - **Programming Languages:** C, C++, Java, Python, PHP, Swift, C#, Dart
 - **Framework:** Laravel, Astro, React, SpringBoot, Next, Node, React-Native, React
 - **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429), Leetcode, Codechef and Atcoder
-- **Project Work:** Hisab (general store based system), Murder in KUET (AI vs AI board game), WizardLang, Wild Beyond (wild life blog and buy-sell website) and Meowtropolis (pet grooming app)
+- **Project Work:** Hisab (general store based system), Murder in KUET (human vs human + human vs AI + AI vs AI board game), WizardLang (compiler project), Wild Beyond (wild life blog and buy-sell website) and Meowtropolis (pet grooming app)
 - **Quick Learner:** Always ready to adapt and master new technologies
 
 ---
