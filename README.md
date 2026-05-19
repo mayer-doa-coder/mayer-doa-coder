@@ -1,6 +1,8 @@
 # Hi, I am Tawhidul Hasan.
 
-I'm currently a **third-year Computer Science and Engineering student** at Khulna University of Engineering and Technology (KUET), Khulna. My journey is driven by a passion for technology and *logical problem-solving,* and I’m always eager to expand my skills and explore new horizons in programming.
+I'm currently a **third-year Computer Science and Engineering student** at Khulna University of Engineering and Technology (KUET), Khulna. My journey is driven by a passion for technology and *logical problem-solving,* and I’m always eager to expand my skills and explore new horizons in programming. 
+
+# KUET student by day, bug creator by night
 
 ---
 
@@ -16,13 +18,16 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 
 ## What I’m Working On
 
-### AI vs AI and Human vs Human Game Development 
-> A board-based intelligent game system called **Murder in KUET**, designed to simulate decision-making under uncertainty using multiple AI algorithms.
-> The system integrates advanced AI techniques such as Minimax, Expectiminimax, Negamax, Monte Carlo, MCTS, and Bayesian inference to model strategic reasoning and probabilistic learning. It features a visually interactive board interface where players move based on dice rolls and pathfinding (A*), while the AI dynamically evaluates moves, makes suggestions, and updates beliefs in real-time. The platform also includes explainable AI components, allowing users to visualize decision trees, probability updates, and reasoning processes, transforming the project into both a gameplay system and an educational AI demonstration tool.
-### Mobile Application Development
-> Hisab - A smart, voice-enabled retail management application designed for small neighborhood shops in Bangladesh.
-> The app digitizes daily shop operations such as baki (credit) management, sales tracking, inventory monitoring, and customer handling in a single, easy-to-use mobile platform.
-> It supports Bengali voice commands, allowing shopkeepers to record transactions hands-free, making it ideal for fast-paced environments. Hisab also introduces a secure customer identity system (phone + PIN) to prevent fraud in credit transactions and enables a shared trust score across shops. With offline-first functionality and automatic sync, the app works seamlessly even in low-connectivity areas, helping shop owners make better decisions through data insights and AI-driven demand prediction.
+### Murder in KUET
+
+An AI-powered board game featuring Human vs Human, Human vs AI, and AI vs AI gameplay.
+The project uses algorithms like Minimax, MCTS, Bayesian inference, and A* pathfinding to create strategic and explainable gameplay experiences.
+
+### Hisab
+
+A voice-enabled retail management app for local Bangladeshi shops.
+It helps manage baki, sales, inventory, and customers with Bengali voice support, offline sync, and AI-based business insights.
+
 
 
 ---
