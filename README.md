@@ -28,6 +28,14 @@ The project uses algorithms like Minimax, MCTS, Bayesian inference, and A* pathf
 A voice-enabled retail management app for local Bangladeshi shops.
 It helps manage baki, sales, inventory, and customers with Bengali voice support, offline sync, and AI-based business insights.
 
+### WhatsApp-Thread-Summarizer
+
+The WhatsApp Thread Summarizer + Reply Drafter + Daily Brief Composer is an AI-powered productivity application that addresses one of the most common digital-age problems: information overload from messaging platforms.
+
+### Slide Commander
+
+A system that controls any presentation from across the room with your voice, your phone, and nothing else. No hardware remotes, no cloud accounts, no installation on the phone.
+
 
 
 ---
