@@ -1,6 +1,6 @@
 # Hi, I am Tawhidul Hasan.
 
-I'm currently a **third-year Computer Science and Engineering student** at Khulna University of Engineering and Technology (KUET), Khulna. My journey is driven by a passion for technology and *logical problem-solving,* and I’m always eager to expand my skills and explore new horizons in programming. 
+I'm currently a **forth-year Computer Science and Engineering student** at Khulna University of Engineering and Technology (KUET), Khulna. My journey is driven by a passion for technology and *logical problem-solving,* and I’m always eager to expand my skills and explore new horizons in programming. 
 
 # KUET student by day, bug creator by night
 
@@ -9,7 +9,7 @@ I'm currently a **third-year Computer Science and Engineering student** at Khuln
 ## Skills & Interests
 
 - **Programming Languages:** C, C++, Java, Python, PHP, Swift, C#, Dart
-- **Framework:** Laravel, Astro, React, SpringBoot, Next, Node, React-Native, React
+- **Framework:** Laravel, Astro, React, SpringBoot, Next, Node, React-Native, React, Django
 - **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429), Leetcode, Codechef and Atcoder
 - **Project Work:** Hisab (general store based system), Murder in KUET (human vs human + human vs AI + AI vs AI board game), WizardLang (compiler project), Wild Beyond (wild life blog and buy-sell website) and Meowtropolis (pet grooming app)
 - **Quick Learner:** Always ready to adapt and master new technologies
