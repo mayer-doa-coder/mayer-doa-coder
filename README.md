@@ -36,7 +36,9 @@ The WhatsApp Thread Summarizer + Reply Drafter + Daily Brief Composer is an AI-p
 
 A system that controls any presentation from across the room with your voice, your phone, and nothing else. No hardware remotes, no cloud accounts, no installation on the phone.
 
+### EduMatch
 
+EduMatch is an AI-powered thesis and internship ecosystem that automates lifecycle management for students, supervisors, companies, and alumni. Designed for universities to reduce administrative friction and improve research outcomes.
 
 ---
 
