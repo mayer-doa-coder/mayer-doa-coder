@@ -1,88 +1,280 @@
-# Hi, I am Tawhidul Hasan.
+<!--
+  Profile README for: https://github.com/mayer-doa-coder
+  Keep this repository public and named exactly: mayer-doa-coder
+-->
 
-I'm currently a **forth-year Computer Science and Engineering student** at Khulna University of Engineering and Technology (KUET), Khulna. My journey is driven by a passion for technology and *logical problem-solving,* and I’m always eager to expand my skills and explore new horizons in programming. 
+<div align="center">
 
-# KUET student by day, bug creator by night
+# Hi, I'm Tawhidul Hasan 👋
 
----
+### CSE @ KUET · Full-Stack Developer · AI/ML Explorer · Competitive Programmer
 
-## Skills & Interests
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+useful+software+for+real+problems;Full-Stack+%7C+AI+%7C+Algorithms+%7C+Mobile;KUET+student+by+day%2C+bug+creator+by+night;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
-- **Programming Languages:** C, C++, Java, Python, PHP, Swift, C#, Dart
-- **Framework:** Laravel, Astro, React, SpringBoot, Next, Node, React-Native, React, Django
-- **Competitive Programming:** Active participant on Codeforces (max. specialist, 1429), Leetcode, Codechef and Atcoder
-- **Project Work:** Hisab (general store based system), Murder in KUET (human vs human + human vs AI + AI vs AI board game), WizardLang (compiler project), Wild Beyond (wild life blog and buy-sell website) and Meowtropolis (pet grooming app)
-- **Quick Learner:** Always ready to adapt and master new technologies
+[![GitHub followers](https://img.shields.io/github/followers/mayer-doa-coder?label=Followers&style=for-the-badge&logo=github&color=1f6feb)](https://github.com/mayer-doa-coder?tab=followers)
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmayer-doa-coder&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=238636)
+![Profile Views](https://komarev.com/ghpvc/?username=mayer-doa-coder&style=for-the-badge&color=blueviolet)
 
----
-
-## What I’m Working On
-
-### Murder in KUET
-
-An AI-powered board game featuring Human vs Human, Human vs AI, and AI vs AI gameplay.
-The project uses algorithms like Minimax, MCTS, Bayesian inference, and A* pathfinding to create strategic and explainable gameplay experiences.
-
-### Hisab
-
-A voice-enabled retail management app for local Bangladeshi shops.
-It helps manage baki, sales, inventory, and customers with Bengali voice support, offline sync, and AI-based business insights.
-
-### WhatsApp-Thread-Summarizer
-
-The WhatsApp Thread Summarizer + Reply Drafter + Daily Brief Composer is an AI-powered productivity application that addresses one of the most common digital-age problems: information overload from messaging platforms.
-
-### Slide Commander
-
-A system that controls any presentation from across the room with your voice, your phone, and nothing else. No hardware remotes, no cloud accounts, no installation on the phone.
-
-### EduMatch
-
-EduMatch is an AI-powered thesis and internship ecosystem that automates lifecycle management for students, supervisors, companies, and alumni. Designed for universities to reduce administrative friction and improve research outcomes.
+</div>
 
 ---
 
-## More About Me
+## 👨‍💻 About Me
 
-- Love tackling challenging coding problems and collaborating on impactful software projects 
-- Open to internships, entry-level positions, and opportunities to contribute to open source 
-- Committed to continuous growth as a developer and making a positive impact on any tech team
+I'm a fourth-year **Computer Science and Engineering** student at **Khulna University of Engineering & Technology (KUET)** who enjoys turning ideas into working products.
+
+- 🧠 Interested in **AI, algorithms, full-stack engineering, mobile development, and intelligent systems**
+- 🏆 Competitive programmer — **Codeforces Specialist**, max rating **1429**
+- 🛠️ Comfortable moving from **system design → backend → frontend → deployment**
+- 🎮 I enjoy building projects where software has visible behavior: games, automation, AI assistants, productivity tools, and real-world platforms
+- 🌱 Currently sharpening my skills in **AI/ML, scalable software architecture, and open-source development**
+- 💼 Open to **internships, entry-level software roles, research collaborations, and open-source work**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 [Hisab v2](https://github.com/mayer-doa-coder/Hisab-v2)
+A mobile-first smart retail assistant for Bangladeshi general stores.
+
+**Highlights**
+- Bengali-friendly retail workflow
+- Inventory, customers, sales and baki management
+- Designed for practical small-business use
+- Mobile-first architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ [Murder in KUET](https://github.com/mayer-doa-coder/Murder-in-KUET)
+An AI-powered detective/board game inspired by Cluedo.
+
+**Highlights**
+- Human vs Human, Human vs AI and AI vs AI
+- Minimax and MCTS-based decision making
+- Bayesian reasoning
+- A* pathfinding and explainable gameplay
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [EduMatch](https://github.com/mayer-doa-coder/EduMatch)
+An AI-driven thesis and internship ecosystem for universities.
+
+**Highlights**
+- Student-supervisor-company workflow
+- Thesis and internship lifecycle management
+- Matching and administrative automation
+- Built to reduce institutional friction
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 [Slide Commander](https://github.com/mayer-doa-coder/Slide-Commander)
+Control presentations from across the room using voice and a phone.
+
+**Highlights**
+- No dedicated presentation remote
+- Voice-assisted control
+- Phone-based interaction
+- Designed for lightweight setup
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [WhatsApp Thread Summarizer](https://github.com/mayer-doa-coder/WhatsApp-Thread-Summarizer)
+An AI productivity tool for long message threads.
+
+**Highlights**
+- Thread summarization
+- Reply drafting
+- Daily brief composition
+- Targets messaging information overload
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [Protidhoni](https://github.com/mayer-doa-coder/Protidhoni)
+A resilient two-way crisis communication system for network-blackout scenarios.
+
+**Highlights**
+- Smartphone and button-phone communication
+- Responder-oriented crisis workflows
+- Designed for degraded connectivity
+- Python-based implementation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🪄 [Arcane](https://github.com/mayer-doa-coder/Arcane)
+A wizard-inspired programming language and compiler project.
+
+**Highlights**
+- Flex + Bison
+- Lexical analysis
+- Parsing and syntax analysis
+- Compiler-design fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 [Meowtropolis](https://github.com/mayer-doa-coder/Meowtropolis)
+An all-in-one pet-care application.
+
+**Highlights**
+- Grooming and veterinary support
+- Pet supplies and care workflows
+- Swift / SwiftUI ecosystem
+- Firebase-backed application
+
+</td>
+</tr>
+</table>
+
+> 📌 Also check out **[Wild Beyond](https://github.com/mayer-doa-coder/Wild-Beyond)**, **[My Portfolio](https://github.com/mayer-doa-coder/My_Portfolio)**, and the rest of my [repositories](https://github.com/mayer-doa-coder?tab=repositories).
 
 ---
 
-### Let’s Connect!
+## 🧰 Tech Stack
 
-Feel free to connect with me or dive into my repositories—let’s build and learn together!
+### Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php,swift,dart,js,ts,html,css&perline=12" alt="Programming Languages" />
+  </a>
+</p>
+
+### Frameworks & Development
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,django,spring,astro,tailwind,firebase,mongodb,mysql,sqlite&perline=12" alt="Frameworks and Databases" />
+  </a>
+</p>
+
+### Tools, Platforms & Design
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel,netlify,anaconda,vscode,figma,ps,ai,ae&perline=12" alt="Tools and Platforms" />
+  </a>
+</p>
 
 ---
 
+## 📊 GitHub Analytics
 
-![One Punch Man](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB2bTJmdHRubnBxZzA0eXp2NDh5MWZ1ajJxa3hwaHY5bzYwcWp0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif)
+<div align="center">
 
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="185" src="https://github-stats-extended.vercel.app/api?username=mayer-doa-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="Tawhidul Hasan GitHub stats" />
+</a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="185" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mayer-doa-coder&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Tawhidul Hasan top languages" />
+</a>
 
+</div>
 
-
-
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tawhidul.hasan.792/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhidul-hasan-9a2a87370/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ttawhid401@gmail.com) 
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayer-doa-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mayer-doa-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayer-doa-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayer-doa-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+> The stats card above includes public GitHub activity such as **stars earned, commits, pull requests and issues**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayer-doa-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mayer-doa-coder&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+[![Tawhidul's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayer-doa-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Tawhidul%27s%20Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mayer-doa-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<!--
+  This image is generated by .github/workflows/snake.yml.
+  Run the workflow once manually after adding it to your profile repository.
+-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayer-doa-coder/mayer-doa-coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayer-doa-coder/mayer-doa-coder/output/github-contribution-grid-snake.svg">
+  <img alt="Tawhidul Hasan's GitHub contribution snake" src="https://raw.githubusercontent.com/mayer-doa-coder/mayer-doa-coder/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧩 What I Like Building
+
+```text
+AI & Algorithms      ███████████████████░
+Full-Stack Systems   ███████████████████░
+Mobile Applications  █████████████████░░░
+Developer Tools      ████████████████░░░░
+Competitive Coding   ████████████████░░░░
+Creative Software    ███████████████████░
+```
+
+---
+
+## 🌐 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201429-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://atcoder.jp/"><img src="https://img.shields.io/badge/AtCoder-Competitive%20Programming-222222?style=for-the-badge" alt="AtCoder" /></a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tawhidul%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhidul-hasan-9a2a87370/)
+[![Facebook](https://img.shields.io/badge/Facebook-Tawhidul%20Hasan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tawhidul.hasan.792/)
+[![Email](https://img.shields.io/badge/Email-ttawhid401%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttawhid401@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mayer--doa--coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayer-doa-coder)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *Build. Break. Debug. Learn. Repeat.*
+
+Thanks for visiting — feel free to explore my repositories, open an issue, or connect with me.
+
+</div>
